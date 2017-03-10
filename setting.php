@@ -6,7 +6,7 @@
   $a
   [
     'username' => 'Avan',
-    'email' 'avan@windows.com',
+    'email' 'avanlandilla@windows.com',
     'hp' => 10,
     'mp' => 30,
     'Volume' => 10,
