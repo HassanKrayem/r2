@@ -8,7 +8,7 @@
     if( !empty($valid) )
     {
     
-        header("Location: /pages/profile.php");
+        header("Location: /paging/profile.php");
     
     }
     else
